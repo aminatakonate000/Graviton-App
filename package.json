@@ -48,7 +48,7 @@
     "nodegit": "^0.24.3",
     "npm": "^7.0.0",
     "octonode": "^0.9.5",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "rimraf": "^2.6.3",
     "tinycolor2": "^1.4.1",
     "xterm": "^3.14.5"
