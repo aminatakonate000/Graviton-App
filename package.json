@@ -46,7 +46,7 @@
     "marked": "^0.6.3",
     "node-pty": "^0.8.1",
     "nodegit": "^0.24.3",
-    "npm": "^7.0.0",
+    "npm": "^10.6.0",
     "octonode": "^0.9.5",
     "request": "^2.88.0",
     "rimraf": "^2.6.3",
@@ -54,9 +54,9 @@
     "xterm": "^3.14.5"
   },
   "devDependencies": {
-    "standard": "^12.0.1",
-    "electron": "^4.2.4",
-    "electron-builder": "^20.44.4",
+    "standard": "^17.1.0",
+    "electron": "^20.0.0",
+    "electron-builder": "^25.0.0",
     "electron-rebuild": "^1.8.5"
   },
   "build": {
